@@ -1,0 +1,6 @@
+v1.5:
+ - Icons now compatible with dark themes.
+ - Notification on copying. Planning to remove the notification in a future release and replace it with the icon changing to confirm copying. See issue #2.
+
+v1.4:
+ - Made compatible with hidden tabs.
