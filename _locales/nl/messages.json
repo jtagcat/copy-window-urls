@@ -1,0 +1,8 @@
+{
+  "extensionDescription": {
+    "message": "Kopieert de URL's van alle tabbladen in het huidige venster naar het klembord."
+  },
+  "extensionButtonLabel": {
+    "message": "Kopieer tabblad-URL's"
+  }
+}

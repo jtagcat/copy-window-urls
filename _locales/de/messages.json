@@ -1,0 +1,8 @@
+{
+  "extensionDescription": {
+    "message": "Kopiert die URLs aller Registerkarten im aktuellen Fenster in die Zwischenablage."
+  },
+  "extensionButtonLabel": {
+    "message": "Kopieer Tab-URLs"
+  }
+}

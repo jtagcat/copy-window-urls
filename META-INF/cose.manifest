@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: v3Xr2lRr+9sZYa5XSrch4hSgBHo=
+SHA256-Digest: M9QGDpG9dBSTkhXrRA20dHHqdVSVT9jQGV1u9UNpuaE=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 7LrbsOv1oqjB1ozhHagEF1y8fv0=
+SHA256-Digest: MrQLCHAtrLAklB2EDe8XPOpcw/sK3/N5Bne85dDcbXo=
+
+Name: icons/icon.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6utQ1GEFPEHGoaTviLZtnLHFJms=
+SHA256-Digest: ke/wtVO30MBgHayLpH8ZWWZ2v/a7epLhVYjpruizxO0=
+
+Name: icons/icon32.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: PRpehgXaINr+rpVW+GDAyM3L7lI=
+SHA256-Digest: zPkNxuhHhkPF03XVO/auBx5ib9xEMs1Uz0ilmQOrcgM=
+
+Name: icons/icon64.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8VtY5qJaGOC4G8aLHr1YPcG1DtU=
+SHA256-Digest: JKzcHmrc1inCnX1qGn+MAA5FO/OIzvlTKwKam58Bjvo=
+
+Name: _locales/af/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Z+YFJwUS/gJwLo5mg2OmzF5UACY=
+SHA256-Digest: wNYOLU0JLJGBnnFjbqr+z/UBhtVvsstF2dInihL1cyM=
+
+Name: _locales/de/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sae+wGAlB5swe4rr4N6ZP6Ry6KU=
+SHA256-Digest: wBb7kbtrXcAAd4fluWHR3xlXEmQzflSJeMHwPomYnds=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: N1127UmPGFAX7G4pNmlbs3Rf4KA=
+SHA256-Digest: 6F8mhnyooWDXucy8JjfSVDKuPjUsO6GJgXtVjj4vD2w=
+
+Name: _locales/nl/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Z+YFJwUS/gJwLo5mg2OmzF5UACY=
+SHA256-Digest: wNYOLU0JLJGBnnFjbqr+z/UBhtVvsstF2dInihL1cyM=
+
