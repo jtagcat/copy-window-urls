@@ -1,8 +1,14 @@
 {
+  "extensionName": {
+    "message": "Copy Window URLs"
+  },
   "extensionDescription": {
     "message": "Copies all tab URLs from the current window to the clipboard."
   },
   "extensionButtonLabel": {
     "message": "Copy Window URLs"
+  },
+  "notificationCopied": {
+    "message": "Copied successfully!"
   }
 }
