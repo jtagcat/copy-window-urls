@@ -10,6 +10,7 @@ browser.browserAction.onClicked.addListener(async function() {
     let tabs = await browser.tabs.query({
         currentWindow: true,
         hidden: false,
+        pinned: false,
     });
 
     let urls = tabs
